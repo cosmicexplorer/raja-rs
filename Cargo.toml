@@ -1,0 +1,12 @@
+[package]
+name = "raja-rs"
+description = "RAJA parallel abstractions library"
+version = "0.1.0"
+edition = "2021"
+license = "BSD-3-Clause"
+repository = "https://github.com/cosmicexplorer/raja-rs"
+authors = ["Danny McClanahan <dmcC2@hypnicjerk.ai>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
